@@ -1,3 +1,2 @@
 
- new file with not modified
-this is modified file 
+ new file with not modified 
